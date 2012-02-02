@@ -29,6 +29,7 @@ a:hover {
   color: #00f;
   letter-spacing: -1px;
   width: 600px;
+  margin-bottom: 50px;
 }
 
 #content-wrapper > div {

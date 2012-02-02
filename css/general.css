@@ -1,0 +1,40 @@
+body {
+  font-family: "OCRAitalic";
+  font-size: 13px;
+}
+
+nav {
+  margin-bottom: 18px;
+}
+
+nav a {
+  font-size: 17px;
+}
+
+a {
+  text-decoration: none;
+  color: #00f;
+}
+
+a:hover {
+  border-bottom: 2px solid #00f;
+}
+
+#wrapper {
+  margin: 50px 0px 0px 50px;
+}
+
+#content-wrapper {
+  line-height: 18px;
+  color: #00f;
+  letter-spacing: -1px;
+  width: 600px;
+}
+
+#content-wrapper > div {
+  margin-bottom: 18px;
+}
+
+#content-wrapper > div:last-child {
+  margin-bottom: 0px;
+}

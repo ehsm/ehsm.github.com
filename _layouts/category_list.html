@@ -1,0 +1,6 @@
+---
+layout: master
+---
+{% for category in page.categories %}
+  <li><a href="/categories/{{ category | replace:' ', '-' | downcase  }}">{{ category }}</a></li>
+{% endfor %}

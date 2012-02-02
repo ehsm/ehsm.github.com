@@ -1,0 +1,15 @@
+.DS_Store
+_Store
+._*
+.Spotlight-V100
+.Trashes
+.*
+!.gitignore
+*~
+.directory
+*.tmproj
+*.tmproject
+tmtags
+.*.sw[a-z]
+*.un~
+Session.vim
